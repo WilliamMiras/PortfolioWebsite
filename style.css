@@ -384,7 +384,7 @@ nav .fa-solid{
     #header{
         background-image: url(images/Resume01_mobile.JPG);
         background-size: cover;
-        background-position: center;
+        background-position: 50% 70%;
         background-attachment: fixed;
     }
     .header-text{
